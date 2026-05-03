@@ -35,6 +35,7 @@ Demonstrated all major CPU addressing modes (implicit, immediate, direct, indire
 
 **Exp 6 — Common Bus**
 Designed a 4-bit shared bus using MUXes and D flip-flop registers. Demonstrated controlled data transfer between registers using WE and select signals.
+
 ---
 
 ## Tools & Environment
