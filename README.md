@@ -10,9 +10,9 @@ Lab experiments for **Computer Organization and Architecture** using Logisim and
 | 1 | Half Adder, Full Adder & 4-bit Ripple Carry Adder | Logisim |
 | 2 | 8x1 Multiplexer & 8x3 Encoder | Logisim |
 | 3 | 4-bit Ripple Carry Adder with Propagation Delay Analysis | Logisim |
-| 4 | 4-bit Common Bus using Multiplexers and Registers | Logisim |
-| 5 | Debugging Data Structures (Stack, Queue, Linked List) using GDB | GCC, GDB |
-| 6 | Addressing Modes in C | GCC, GDB |
+| 4 | Debugging Data Structures (Stack, Queue, Linked List) using GDB | GCC, GDB |
+| 5 | Addressing Modes in C | GCC, GDB |
+| 6 | 4-bit Common Bus using Multiplexers and Registers | Logisim |
 
 ---
 
@@ -45,7 +45,4 @@ Designed a 4-bit shared bus using MUXes and D flip-flop registers. Demonstrated 
 ---
 
 *B.Tech — Computer Science & Engineering*
-Akshat Salgotra
-241210014
-CSE-1 
-G1
+
