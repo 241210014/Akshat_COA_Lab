@@ -7,7 +7,7 @@ Lab experiments for **Computer Organization and Architecture** using Logisim and
 
 | # | Title | Tools Used |
 |---|-------|------------|
-| 1 | Half Adder, Full Adder & 4-bit Ripple Carry Adder | Logisim |
+| 1 | Half Adder, Full Adder & 4-bit Adder | Logisim |
 | 2 | 8x1 Multiplexer & 8x3 Encoder | Logisim |
 | 3 | 4-bit Ripple Carry Adder with Propagation Delay Analysis | Logisim |
 | 4 | Debugging Data Structures (Stack, Queue, Linked List) using GDB | GCC, GDB |
@@ -19,7 +19,7 @@ Lab experiments for **Computer Organization and Architecture** using Logisim and
 ## Brief Descriptions
 
 **Exp 1 — Adder Circuits**
-Design and simulation of Half Adder, Full Adder, and 4-bit Ripple Carry Adder using logic gates. Verified binary addition and carry propagation via truth tables.
+Design and simulation of Half Adder, Full Adder, and 4-bit Adder using logic gates. 
 
 **Exp 2 — MUX & Encoder**
 Implementation of an 8x1 Multiplexer for data selection using 3 select lines, and an 8x3 Encoder for converting 8 active input lines into a 3-bit binary output.
